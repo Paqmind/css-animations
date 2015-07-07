@@ -44,3 +44,5 @@ Where n is number of frames since inactivity
 ## Tips
 
 It's almost always best to key animations on the amount of real time elapsed since beginning of the animation, as read from `Date`. So that when intervals don't fire quickly (for this or other reasons) the animation just gets jerkier, not slower.
+
+Web Worker is allowed to use intervals/timeouts without limitation.
