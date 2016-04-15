@@ -1,6 +1,6 @@
 # Animation Notes
 
-## Transitions vs Animations
+## CSS transitions vs CSS animations
  
 ### Sample code 
  
